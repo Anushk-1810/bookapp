@@ -15,5 +15,3 @@ This is a frontend application developed as part of an assignment to showcase th
 - React Router
 - Axios (or any other library for making API requests)
 - CSS frameworks (e.g., Bootstrap, Material-UI) for styling
-
-## Getting Started
